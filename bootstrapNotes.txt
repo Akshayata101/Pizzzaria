@@ -1,2 +1,0 @@
-popular front end framework helps creat responsive mobile first websites
-it provides certain pre built css classes for creating responsive web apps and web pages
